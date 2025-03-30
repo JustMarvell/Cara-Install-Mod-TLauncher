@@ -1,2 +1,2 @@
 # Cara Install MOD
-asdf
+1. Download MOD (Contoh mod Simple voice chat)
